@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://openapi.com/">
-    <img alt="Openapi SDK for PHP" src=".github/assets/repo-header-a3.png" >
+    <img alt="XMAS Party" src="assets/images/readme-header.png" >
   </a>
 
   <h1>🎄✨ GitHub Christmas Party ✨🎅 </h1>

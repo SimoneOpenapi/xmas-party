@@ -69,6 +69,16 @@ final-touch:
 	@echo "✨ Santa has sprinkled the repo with Christmas magic."
 
 # -----------------------------------------------------
+# Operations
+# -----------------------------------------------------
+push:
+	@echo "🧹 Cleaning the snow..."
+	@git add .
+	@git commit -m "Santa's update at $$(date)" || true
+	@git push
+	@echo "❄️ Repo workspace updated."
+
+# -----------------------------------------------------
 # Fun extras
 # -----------------------------------------------------
 clean:
