@@ -78,6 +78,12 @@ push:
 	@git push
 	@echo "❄️ Repo workspace updated."
 
+serve:
+	@echo "🎅 Serving the Christmas Party locally..."
+	@echo "✨ (Note: This is a magical placeholder; no actual server is started.)"
+	@npx http-server .
+	@echo "🎄 Local server is running. Enjoy the festive vibes!"
+
 # -----------------------------------------------------
 # Fun extras
 # -----------------------------------------------------
