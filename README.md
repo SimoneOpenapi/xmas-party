@@ -90,7 +90,7 @@ A lore-filled holiday letter explaining the philosophy of this party.
 The **3 most legendary comments** left in Issue #1 will be featured:
 - ⭐ On social media
 - ⭐ In the repo's Hall of Fame
-- ⭐ In Santa’s good list for 2024
+- ⭐ In Santa’s good list for 2025
 
 Be creative. Be chaotic. Be festive. 🌟
 
