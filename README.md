@@ -1,10 +1,27 @@
-# 🎄✨ GitHub Christmas Party — The Most Festive Repo on Earth ✨🎅
+<div align="center">
+  <a href="https://openapi.com/">
+    <img alt="Openapi SDK for PHP" src=".github/assets/repo-header-a3.png" >
+  </a>
+
+  <h1>🎄✨ GitHub Christmas Party ✨🎅 </h1>
+  <h4>The Most Festive Repo on Earth</h4>
+
+  ![Gifts Delivered](https://img.shields.io/badge/🎁_Gifts_Delivered-42,000-brightgreen?style=for-the-badge)
+  ![Christmas Date](https://img.shields.io/badge/🎄_Christmas-2025--12--25-red?style=for-the-badge)
+  ![Build](https://img.shields.io/badge/Build-HOHOHOHO-red?style=for-the-badge)
+  ![Sleigh Ready](https://img.shields.io/badge/🦌_Sleigh-Ready-blue?style=for-the-badge)
+  ![Cookies Left](https://img.shields.io/badge/🍪_Cookies_Left-12-orange?style=for-the-badge)
+  ![Christmas CI](https://img.shields.io/badge/Christmas_CI-🔔_Ringing-yellow?style=for-the-badge)
+  ![Spirit Level](https://img.shields.io/badge/🎁_Spirit_Level-98%25-brightgreen?style=for-the-badge)
+  ![Polar Coverage](https://img.shields.io/badge/❄️_Polar_Coverage-102%25-cyan?style=for-the-badge)
+  ![Elf Contributors](https://img.shields.io/badge/🧝_Elves-24-green?style=for-the-badge)
+</div>
+
+# Welcome
 
 Welcome, traveler of the Internet! ❄️ You’ve just entered the **official GitHub Christmas Party Repository** — a magical place where code meets Christmas, pull requests meet panettone, and issues turn into digital fireplaces. 🔥💻
 
 This repo is **a party**, not a project. A celebration of community, creativity, and glorious nerdiness. And the *main dance floor* is right here on GitHub.
-
----
 
 ## 🎁 **How to Join the Party (SUPER EASY!)**
 ### 👉 **Go to Issue #1 and leave a comment!**
@@ -29,7 +46,6 @@ You can drop:
 Make it festive. Make it weird. Make it yours.  
 This issue is our **Wall of Holiday Fame**. 🌟
 
----
 
 ## 🎄 **A Christmas Tree for Courage**
 
@@ -48,7 +64,6 @@ This issue is our **Wall of Holiday Fame**. 🌟
   🎅 Leave your mark in Issue #1 🎅
 ```
 
----
 
 ## ⭐ **What You Can Do Here**
 This repo is a playground of festive nonsense:
@@ -71,8 +86,6 @@ Leave your best coding tracks, chiptunes, cyberpunk Christmas beats.
 ### 🎁 5. **Explore the Magical File: `SANTA.md`**
 A lore-filled holiday letter explaining the philosophy of this party.
 
----
-
 ## 🎅 **Contest Alert!**
 The **3 most legendary comments** left in Issue #1 will be featured:
 - ⭐ On social media
@@ -81,15 +94,11 @@ The **3 most legendary comments** left in Issue #1 will be featured:
 
 Be creative. Be chaotic. Be festive. 🌟
 
----
-
 ## ❄️ **Why This Repo Exists**
 Because the world needs more joy.  
 Because developers also deserve a holiday party.  
 Because creativity should be celebrated.  
 And because GitHub Issues make a surprisingly good Christmas guestbook. 😂
-
----
 
 ## 🎄 **Join the Celebration Now**
 👉 Go to **Issue #1**  
