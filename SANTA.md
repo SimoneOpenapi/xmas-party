@@ -94,3 +94,5 @@ Thank you for your kernel‑level magic.
 Signed,
 
 Elliot Alderson
+
+(Delivered)
